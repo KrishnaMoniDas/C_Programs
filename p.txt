@@ -1,0 +1,11 @@
+//Write a C program to implement quick sort using the divide-and-conquer paradigm. Analyse its time complexity.
+//Write a C program to implement merge sort using the divide-and-conquer paradigm. Analyse its time complexity
+//Write a C program to solve the fractional knapsack problem using the greedy algorithm.
+//Implement the brute-force string matching algorithm in C. Analyse its time complexity.
+//Write a program in C to Implement the DFS algorithm for a graph represented using an adjacency matrix.
+//Create a circular linked list in C. Implement functions for insertion, deletion, and traversal.
+//Implement a doubly linked list in C. Provide functions for insertion, deletion, and traversal in both forward and backward directions.
+//Write a program in C to implement a priority queue using a binary heap. Include functions to insert an 2element, delete the maximum element, and display the heap
+//Write a C program to represent a graph using an adjacency list. Implement a function to add an edge and display the graph.
+//Create a binary search tree in C.
+//Implement functions to insert a node, search for a node, and perform in-order traversal.
